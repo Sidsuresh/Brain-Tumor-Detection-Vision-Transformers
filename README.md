@@ -6,7 +6,7 @@ This project features a **Streamlit** web application that utilizes a fine-tuned
 
 ## 🚀 Deployed Link
 
-1. [Streamlit Community Cloud]()
+1. [Streamlit Community Cloud](https://vit-tumor-detection.streamlit.app/)
 2. [Link to Dataset](https://drive.google.com/file/d/1Qkubjf-eujpoJDOuIAtbicHMoJfIAT2M/view?usp=sharing)
 
 ---
