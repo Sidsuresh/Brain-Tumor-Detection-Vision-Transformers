@@ -11,6 +11,17 @@ This project features a **Streamlit** web application that utilizes a fine-tuned
 
 ---
 
+## 🎯 Target Classes
+
+The model is fine-tuned to distinguish between the following categories:
+
+* **Glioma:** A type of tumor that originates in the glial cells that surround and support neurons in the brain and spinal cord.
+* **Meningioma:** A tumor that forms on the meninges—the protective membranes that cover the brain and spinal cord.
+* **No Tumor:** MRI scans of healthy brains with no detectable abnormalities or tumors.
+* **Pituitary:** Tumors located in the pituitary gland, a small gland at the base of the brain that controls hormone production.
+
+---
+
 ## 📋 Prerequisites
 - Python 3.9+
 - Git LFS (for model weight management)
