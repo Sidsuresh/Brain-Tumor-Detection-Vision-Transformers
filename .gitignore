@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data
+Dataset/
+*.zip
+
+# OS files
+.DS_Store
